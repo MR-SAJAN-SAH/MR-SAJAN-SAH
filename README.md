@@ -38,9 +38,9 @@ NLP-driven conversational AI chatbot for automated user interaction.
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/your-correct-link
+- 💼 LinkedIn: www.linkedin.com/in/sajan-sah-7b5713257
 - 🌐 Portfolio: https://www.sajankumar.com.np
-- 📧 Email: sajansah8989@gmail.com
+- 📧 Email: sajansah205@gmail.com
 
 ---
 
