@@ -1,43 +1,43 @@
-## 👋 Hi, I'm Sajan Sah
+## Hi, I'm Sajan Kumar Sah
 
 🎓 B.Tech in Computer Science & Engineering  
 📌 Minor in Applied Machine Learning  
-🌍 Open to relocate | Targeting Germany (AI/ML roles)
+🌍 Open to relocate | Targeting Germany (AI/ML & Data roles)
 
 ---
 
-## 🧠 Technical Focus
+## Technical Focus
 - Machine Learning & Deep Learning
 - Natural Language Processing
-- Applied AI & Research-Oriented ML
+- Research-oriented & applied AI
 - Python, PyTorch, TensorFlow, Scikit-learn
-- SQL, Git, Linux
+- SQL, Git, Linux, Docker (basics)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 🔹 **Roman–Nepali Sentiment Analysis Framework**  
-NLP-based sentiment analysis using large-scale synthetic and native corpora.  
+Large-scale NLP system using synthetic and native corpora.
 
 🔹 **Epilepsy Seizure Detection using LNN**  
-Healthcare-focused deep learning system for seizure classification.  
+Deep learning-based healthcare classification system.
 
 🔹 **Protein–Ligand Binding Prediction (DTBA)**  
-3D-structure-based prediction using deep learning for drug discovery.  
+3D structure-based prediction for drug discovery.
 
 🔹 **KiitChatBot**  
-Rule-based + NLP chatbot system for conversational AI use cases.
+NLP-based conversational AI system.
 
 ---
 
-## 🧪 Current Work
-- Building end-to-end ML pipelines
-- Learning model deployment (FastAPI / Streamlit)
+## Current Work
+- Improving end-to-end ML pipelines
+- Model deployment with FastAPI / Streamlit
 - Preparing for AI/ML Master’s in Germany
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 🌐 Portfolio: https://your-portfolio-link
-- 📧 Email: your@email.com
+## Contact
+- 💼 LinkedIn: https://linkedin.com/in/your-correct-link
+- 🌐 Portfolio: https://www.sajankumar.com.np
+- 📧 Email: sajansah8989@gmail.com
