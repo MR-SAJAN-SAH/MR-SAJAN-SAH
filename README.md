@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hi, I'm Sajan Sah
 
-<!--
-**MR-SAJAN-SAH/MR-SAJAN-SAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science & Engineering  
+📌 Minor in Applied Machine Learning  
+🌍 Open to relocate | Targeting Germany (AI/ML roles)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Focus
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Applied AI & Research-Oriented ML
+- Python, PyTorch, TensorFlow, Scikit-learn
+- SQL, Git, Linux
+
+---
+
+## 🚀 Featured Projects
+🔹 **Roman–Nepali Sentiment Analysis Framework**  
+NLP-based sentiment analysis using large-scale synthetic and native corpora.  
+
+🔹 **Epilepsy Seizure Detection using LNN**  
+Healthcare-focused deep learning system for seizure classification.  
+
+🔹 **Protein–Ligand Binding Prediction (DTBA)**  
+3D-structure-based prediction using deep learning for drug discovery.  
+
+🔹 **KiitChatBot**  
+Rule-based + NLP chatbot system for conversational AI use cases.
+
+---
+
+## 🧪 Current Work
+- Building end-to-end ML pipelines
+- Learning model deployment (FastAPI / Streamlit)
+- Preparing for AI/ML Master’s in Germany
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 🌐 Portfolio: https://your-portfolio-link
+- 📧 Email: your@email.com
