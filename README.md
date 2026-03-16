@@ -1,8 +1,8 @@
 ## Hi, I'm Sajan Kumar Sah
 
-🎓 B.Tech in Computer Science & Engineering  
+🎓 B.Tech in Computer Science & Engineering (Honours With Research)
 📌 Minor in Applied Machine Learning  
-🌍 Open to relocate | Targeting Germany (AI/ML & Data roles)
+🌍 Open to relocate | Targeting Nepal & Germany (AI/ML & Data roles)
 
 ---
 
